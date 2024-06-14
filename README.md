@@ -12,7 +12,6 @@
 
  - Aprofundar meu conhecimento em Desenolvimento web.
  - Desenvolver habilidades de resolução de problemas.
- - Criar um portfólio de projetos práticos em HTML e CSS.
  - Conectar-me com outros entusiastas da linguagem.
 ---
  **Público-alvo:**
