@@ -2,9 +2,7 @@
 
 ---
 
- **Este repositório documenta minha jornada de aprendizado no curso de HTML5, e CSS3 do Prof. Gustavo Guanabara. Aqui você encontrará:**
- 
- - Códigos completos dos exercícios.
+ **Este repositório documenta minha jornada de aprendizado no curso de HTML5, e CSS3 do Prof. Gustavo Guanabara.**
 
 ---
  **Objetivos:**
