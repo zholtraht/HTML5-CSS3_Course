@@ -6,7 +6,7 @@ body {
     padding: 20px;
     border: 2px solid #000000;
     box-shadow: 4px 4px #000000;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 h1 {
@@ -20,7 +20,7 @@ p {
     color: #3C3C3C;
     font-family: monospace;
     padding: 0px;
-    margin: 0px;
+    margin-top: 15px;
     font-weight: bold;
 }
 
