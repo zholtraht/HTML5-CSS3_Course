@@ -1,0 +1,31 @@
+body {
+    background-color: #E8DCDC;
+}
+
+.content {
+    padding: 20px;
+    border: 2px solid #000000;
+    box-shadow: 4px 4px #000000;
+    border-radius: 15px;
+}
+
+h1 {
+    font-family: monospace;
+    padding: 0px;
+    margin: 0px;
+    color: #3C3C3C;
+}
+
+p {
+    color: #3C3C3C;
+    font-family: monospace;
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+hr {
+    border: none;
+    background-color: #3C3C3C;
+    height: 2px;
+}
