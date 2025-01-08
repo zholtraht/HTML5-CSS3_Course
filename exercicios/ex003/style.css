@@ -17,6 +17,12 @@ h1 {
     color: #3C3C3C;
 }
 
+hr {
+    border: none;
+    background-color: #3C3C3C;
+    height: 2px;
+}
+
 p {
     color: #3C3C3C;
     font-family: monospace;
