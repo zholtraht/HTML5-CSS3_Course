@@ -57,14 +57,14 @@ mark {
     background-color: #b7b7b7;
 }
 
-code {
-    color: #3C3C3C;
+ol, ul {
     font-family: monospace;
-    padding: 0px;
-    margin-top: 15px;
-    font-weight: bold;
 }
 
-q {
+li {
+    margin-top: 15px;
+}
+
+dl {
     font-family: monospace;
 }
